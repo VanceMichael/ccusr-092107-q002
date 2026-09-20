@@ -1,0 +1,10 @@
+{
+  "domain": "app-privacy-remediation",
+  "version": 1,
+  "facts": [
+    "通报列出四类个人信息收集使用问题",
+    "运营者需在十五个工作日内完成整改",
+    "后续将结合整改情况开展核查处置"
+  ],
+  "sample_id": "sample-002"
+}
