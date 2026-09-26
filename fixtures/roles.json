@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "roles": [
+    {
+      "code": "product",
+      "name": "产品",
+      "conclusion_scope": "整改方案与版本发布结论"
+    },
+    {
+      "code": "legal",
+      "name": "法务",
+      "conclusion_scope": "个人信息保护合规结论"
+    },
+    {
+      "code": "engineering",
+      "name": "研发",
+      "conclusion_scope": "技术实现与验证结论"
+    }
+  ]
+}
