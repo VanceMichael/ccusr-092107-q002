@@ -1,0 +1,22 @@
+{
+  "domain": "app-privacy-remediation",
+  "sample_id": "sample-catalog-001",
+  "categories": [
+    {
+      "code": "rules_not_published",
+      "title": "规则未公开"
+    },
+    {
+      "code": "excessive_permission_requests",
+      "title": "非必要权限频繁索取"
+    },
+    {
+      "code": "incomplete_disclosure",
+      "title": "告知不完整"
+    },
+    {
+      "code": "account_not_deletable",
+      "title": "账号无法注销"
+    }
+  ]
+}

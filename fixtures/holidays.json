@@ -1,0 +1,7 @@
+{
+  "domain": "app-privacy-remediation",
+  "sample_id": "sample-holidays-001",
+  "holidays": [
+    "2026-09-25"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "domain": "app-privacy-remediation",
+  "sample_id": "sample-roles-001",
+  "roles": [
+    {
+      "role": "product",
+      "title": "产品",
+      "covers": [
+        "data_purpose",
+        "disclosure_text"
+      ]
+    },
+    {
+      "role": "legal",
+      "title": "法务",
+      "covers": [
+        "data_purpose",
+        "permission_trigger",
+        "disclosure_text",
+        "third_party_component",
+        "deletion_path"
+      ]
+    },
+    {
+      "role": "engineering",
+      "title": "研发",
+      "covers": [
+        "permission_trigger",
+        "third_party_component",
+        "deletion_path"
+      ]
+    }
+  ]
+}
